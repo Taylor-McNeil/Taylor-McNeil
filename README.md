@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - I'm Taylor, and I am a software advocate. <br>
 - I make Youtube Videos. I make content around programming, making video games, and playing video games. <br>
-- I currently work at NCR. 
+- I currently work at SDF. 
 - You can find my content in these places: <a href="https://www.linkedin.com/in/taylormcneil/"> Linkedin </a>, <a href = "https://www.youtube.com/channel/UCwVF9sHbTX2wvaKsDfhDLtQ"> YouTube </a> and <a href="https://taylor-mcneil.medium.com/"> Medium .</a>
 
 
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 [![Editors](https://img.shields.io/badge/Editor-Intellij-F6A40E?style=for-the-badge&logo=IntelliJ-IDEA)]()
 
 ## 🔭 Things I'm currently working on:
-- Fliming a Rimworld Playthrough <br>
+- Creating pesduo code for common game patterns <br>
 - Recreating Diner Dash 
 - Learning to Play the Harp
