@@ -60,9 +60,9 @@ _“Just read the docs. If the docs suck, then the product probably does too.”
 
 ## 🌍 Places I've Been
 
-| North America | South America | Europe   | Africa       | Asia          | Oceania   |
-|---------------|---------------|----------|--------------|---------------|-----------|
-| Canada        | Peru          | Italy    | Tanzania x 2 | Vietnam x 2   | Australia |
+| North America | South America | Europe   | Africa       | Asia          | Oceania   | Antarctica |
+|---------------|---------------|----------|--------------|---------------|-----------|-----------|
+| Canada        | Peru          | Italy    | Tanzania x 2 | Vietnam x 2   | Australia | (*December 2026*)
 | Mexico x 2    | Columbia x 2  | Germany  | South Africa | Thailand      |           |
 | Belize        | Chile         | Spain x2 | Ethiopia     | Singapore x 2 |           |
 | Jamaica       |               | France   |              | Japan x 2     |           |
