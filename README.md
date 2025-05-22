@@ -10,25 +10,44 @@ Currently focusing on front-end engineering (React/TS), but still deeply rooted 
 
 ## ✨ Featured Work
 
-- 🍔 [Burger Demo App](https://burgersdemo.ncrcloud.com/Peachtree-Burger/)  
-  *A React-based storefront that handles ordering, UI polish, and a lil bit of deliciousness.*
-
-- 🧾 [HMAC Authentication Guide](https://developer.ncr.com/portals/dev-portal/help-center/documentation/hmac-authentication)  
-  *I wrote this for NCR—code samples, onboarding steps, all the boring bits made readable.*
-
-- 🖼️ [Generative NFT Workshop Repo](https://github.com/Taylor-McNeil/nft-stellar-buzz)  
-  *Docs meet creativity. A workshop I taught using JS + Stellar + SVG.*
-
+<table>
+  <tr>
+    <td width="33%">
+      <strong>🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a></strong><br>
+      <code>React</code> <code>JS</code> <code>APIs</code><br>
+      <em>A Django-based storefront with UI polish & a lil bit of deliciousness.</em>
+    </td>
+    <td width="33%">
+      <strong>🧾 <a href="https://developer.ncr.com/portals/dev-portal/help-center/documentation/hmac-authentication">HMAC Guide</a></strong><br>
+      <code>Python</code> <code>Auth</code> <code>Docs</code><br>
+      <em>API onboarding with sample code and auth clarity.</em>
+    </td>
+    <td width="34%">
+      <strong>🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a></strong><br>
+      <code>JS</code> <code>Stellar</code> <code>APIs</code><br>
+      <em>A hands-on workshop that lets devs create dynamic generative NFTs using Stellar</em>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
-`Python` · `TypeScript` · `React` · `FastAPI` · `Markdown` · `OpenAPI` · `Git` · `Vibes` · 
+`Python` · `TypeScript` · `JavaScript` ·`Solidity` · `React` · `Django` · `FastAPI` · `Markdown` · `MDX` · `Vibes`  
 
 ## 🧠 Currently Building
 
-- 🧵 **Braid** – a visual outliner for nonlinear stories (React + D3 + FastAPI)
-- ✨Spark - a personal productivity app to gamify my goals
-- ✍️ Domains of Power: A fantasy book series that slaps harder than your favorite anime fight
+- 🧵 **Braid** 
+  *A visual outliner for nonlinear storytelling and braided plots.*  
+  <code>React</code> <code>D3</code> <code>FastAPI</code>
+
+- ✨ **Spark**  
+  *A productivity app to gamify goals, tasks, and habits with milestone-based tracking.*  
+  <code>React</code> <code>FastAPI</code> <code>Auth</code>
+
+- ✍️ **Domains of Power**  
+  *A fantasy book series that slaps harder than your favorite anime fight*  
+  <code>Horror</code> <code>The CW on Acid</code> <code>Prestige Anime Aura </code>
+
 
 
 
