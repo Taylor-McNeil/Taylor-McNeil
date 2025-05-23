@@ -22,10 +22,17 @@ Currently focusing on front-end engineering (React/TS), but still deeply rooted 
       <code>Python</code> <code>Auth</code> <code>Docs</code><br>
       <em>API onboarding with sample code and auth clarity.</em>
     </td>
-    <td width="34%">
-      <strong>🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a></strong><br>
-      <code>JS</code> <code>Stellar</code> <code>APIs</code><br>
-      <em>A hands-on workshop that lets devs create dynamic generative NFTs using Stellar</em>
+     <td width="33%">
+        <strong><a href="https://medium.com/codex/tic-tac-toe-e53212028341">🎮 Tic Tac Toe Java Tutorial</strong><br>
+        <code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br>
+        <em> A step-by-step tutorial for building a console-based Tic Tac Toe game in Java. Read by over 75,000 developers.</em>
+    </td>
+  </tr>
+  <tr>
+      <td width="33%">
+        <strong>🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a></strong><br>
+        <code>JS</code> <code>Stellar</code> <code>APIs</code><br>
+        <em>A hands-on workshop that lets devs create dynamic generative NFTs using Stellar</em>
     </td>
   </tr>
 </table>
