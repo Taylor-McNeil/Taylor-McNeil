@@ -1,25 +1,20 @@
-
 # • Developer Experience • Tech Writer • Fantasy Nerd • World Traveler
 
-Hey, I’m Taylor – a software engineer, technical writer, and fantasy nerd. <br>
+Hey, I'm Taylor – a software engineer, technical writer, and fantasy nerd. <br>
 I turn complex tech mumbo jumbo into real things that solve problems. <br>
-Currently focusing on improving my front-end engineering (React/TS), but still deeply rooted in Python, API design, and docs that don’t suck.
+Currently focusing on improving my front-end engineering (React/TS), but still deeply rooted in Python, API design, and docs that don't suck.
 
 > Former DevRel @ Mastercard, Stellar, Dropbox.
 
-
 ## ✨ Featured Work
 
+|🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a>| 🧾 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/hmac-guide/">HMAC Guide</a>| 📋 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/api-docs/">API Documentation Samples</a>|
+|:---:|:---:|:---:|
+|<code>React</code> <code>JS</code> <code>APIs</code><br><em>Full-stack Django application demonstrating modern UI/UX design with seamless API integration. Built to showcase developer-friendly architecture patterns.</em> | <code>Python</code> <code>Auth</code> <code>Docs</code><br> <em>Enterprise API security documentation that reduced support tickets and enabled external developer onboarding across multiple NCR product teams.</em>|<code>OpenAPI</code> <code>YAML</code> <code>Specs</code><br><em>Comprehensive API schemas for fintech and blockchain platforms. Powers 10K+ monthly developers.</em>|
 
-|🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a>| 🧾 <a href="https://developer.ncr.com/portals/dev-portal/help-center/documentation/hmac-authentication">HMAC Guide</a>| ☕ <a href="https://www.youtube.com/watch?v=eUJDmLEVtjU&ab_channel=ThatDevTaylorGames">Java Programming Tutorial</a>
-|---------------|-------|---|
-|<code>React</code> <code>JS</code> <code>APIs</code><br><em>A Django-based storefront with UI polish & a lil bit of deliciousness.</em> | <code>Python</code> <code>Auth</code> <code>Docs</code><br> <em>API onboarding with sample code and auth clarity.</em>|  <code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em> A video explanation of how to solve a leetcode problem using Java.</em><br>|
-
-
-|🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a>|🎮 <a href="https://medium.com/codex/tic-tac-toe-e53212028341"> Tic Tac Toe Java Tutorial</a>|
-|----|---|
-|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>A hands-on workshop that lets devs create dynamic generative NFTs using Stellar</em>|<code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br> <em> A step-by-step tutorial for building a console-based Tic Tac Toe game in Java. Read by over 75,000 developers.</em>
-
+|🎮 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/java-tutorial/">Tic Tac Toe Java Tutorial</a>|☕ <a href="https://www.youtube.com/watch?v=eUJDmLEVtjU&ab_channel=ThatDevTaylorGames">Java Programming Tutorial</a>|🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a>|
+|:---:|:---:|:---:|
+|<code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br> <em>Educational programming content that transforms complex concepts into accessible learning experiences. Reached 75K+ developers across Medium and YouTube.</em>|<code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em>Technical problem-solving tutorial that breaks down algorithmic thinking and Java implementation patterns for developers at all skill levels.</em>|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>Interactive blockchain workshop materials enabling developers to build dynamic NFT applications using Stellar's API ecosystem.</em>|
 
 ## 🛠 Tech Stack
 
@@ -37,31 +32,23 @@ Currently focusing on improving my front-end engineering (React/TS), but still d
 
 - ✍️ **Domains of Power**  
   *A fantasy book series that slaps harder than your favorite anime fight*  
-  <code>Horror</code> <code>The CW on Acid</code> <code>Prestige Anime Aura </code>
-
-
-
-
+  <code>Horror</code> <code>The CW on Acid</code> <code>Prestige Anime Aura</code>
 
 ## 🧃 Ethos
 
-_“Just read the docs. If the docs suck, then the product probably does too.”_
-
-
+_"Just read the docs. If there aren't any docs, write the docs."_
 
 ## 🌍 Places I've Been
 
 | North America | South America | Europe   | Africa       | Asia          | Oceania   | Antarctica |
 |---------------|---------------|----------|--------------|---------------|-----------|-----------|
-| Canada        | Peru          | Italy    | Tanzania x 2 | Vietnam x 2   | Australia | (*December 2026*)
-| Mexico x 2    | Columbia x 2  | Germany  | South Africa | Thailand      |           |
-| Belize        | Chile         | Spain x2 | Ethiopia     | Singapore x 2 |           |
-| Jamaica       |               | France   |              | Japan x 2  (*April 2026*)    |           |
-| The United States             |          |        |              | Singapore x 2 |           |
-|               |               |          |              | Mongolia (*August 2026*)
+| Canada        | Peru          | Italy    | Tanzania x 2 | Vietnam x 2   | Australia | (*December 2026*) |
+| Mexico x 2    | Columbia x 2  | Germany  | South Africa | Thailand      |           |            |
+| Belize        | Chile         | Spain x2 | Ethiopia     | Singapore x 2 |           |            |
+| Jamaica       |               | France   |              | Japan x 2 (*April 2026*) |           |            |
+| United States |               |          |              | Mongolia (*August 2026*) |           |            |
+
 ## 📫 Contact Me
 
 Want to collab? Hire me? Send memes?  
-Reach out via [LinkedIn](https://www.linkedin.com/in/taylormcneil) 
-
-
+Reach out via [LinkedIn](https://www.linkedin.com/in/taylormcneil)
