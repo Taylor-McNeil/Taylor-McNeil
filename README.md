@@ -6,6 +6,12 @@ Currently focusing on improving my front-end engineering (React/TS), but still d
 
 > Former DevRel @ Mastercard, Stellar, Dropbox.
 
+## 🚀 Latest Project: [DevRel Playground](https://www.devrel-playground.com/)
+
+Built for DevRel Professionals who want to create amazing technical content. Compare AI models side-by-side, get automated quality scores, and discover which prompts work best for your audience. The goal is to make data-driven decisions and to iterate on our assumptions to get better outcomes for the dev community.
+
+**Built with:** Next.js 15 • TypeScript • Mantine • Vercel
+
 ## ✨ Featured Work
 
 |🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a>| 🧾 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/hmac-guide/">HMAC Guide</a>| 📋 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/api-docs-blockchain/">API Documentation Samples</a>|
