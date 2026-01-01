@@ -1,60 +1,59 @@
-# • Developer Experience • Tech Writer • Fantasy Nerd • World Traveler
+# Developer Experience Engineer • Technical Writer • Fantasy Nerd • World Traveler
 
-Hey, I'm Taylor – a software engineer, technical writer, and fantasy nerd. <br>
-I turn complex tech mumbo jumbo into real things that solve problems. <br>
-Currently focusing on improving my front-end engineering (React/TS), but still deeply rooted in Python, API design, and docs that don't suck.
+Hey, I'm Taylor – I turn complex tech mumbo jumbo into real things that solve problems. <br>
+Currently building tools for writers and shipping front-end projects (React/TS), but still deeply rooted in Python, API design, and docs that don't suck.
 
-> Former DevRel @ Mastercard, Stellar, Dropbox.
+> Former DevRel @ Mastercard, Stellar, Dropbox
 
-## 🚀 Latest Project: [DevRel Playground](https://www.devrel-playground.com/)
+## 📄 [Portfolio](https://taylormcneil.dev)
 
-Built for DevRel Professionals who want to create amazing technical content. Compare AI models side-by-side, get automated quality scores, and discover which prompts work best for your audience. The goal is to make data-driven decisions and to iterate on our assumptions to get better outcomes for the dev community.
+Built as API documentation — because fun :) 
 
-**Built with:** Next.js 15 • TypeScript • Mantine • Vercel
+## 🚀 Latest Project: [The Long View](https://thelongview.dev)
+
+You've seen those $50 "Big Year Calendars" on TikTok — giant wall posters that show your whole year at once. I wanted a digital version that was free, portable, and didn't require an account. The Long View lets you plan across months, drag events through time, and zoom between year and quarter views. Everything lives in localStorage with JSON export, so you own your data completely.
+
+**Built with:** React • TypeScript • shadcn • dnd-kit
 
 ## ✨ Featured Work
 
-|🍔 <a href="https://burgersdemo.ncrcloud.com/Peachtree-Burger/">Burger Demo App</a>| 🧾 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/hmac-guide/">HMAC Guide</a>| 📋 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/api-docs-blockchain/">API Documentation Samples</a>|
+| [HMAC Authentication Guide](https://taylormcneil.dev/guides/hmac-authentication) | [Stellar API Docs](https://taylormcneil.dev/case-studies/stellar-api-docs) | [Java Game Dev Tutorial](https://taylormcneil.dev/tutorials/java-game-dev) |
 |:---:|:---:|:---:|
-|<code>React</code> <code>JS</code> <code>APIs</code><br><em>Full-stack Django application demonstrating API integration. Built to showcase developer-friendly architecture patterns.</em> | <code>Python</code> <code>Auth</code> <code>Docs</code><br> <em>Enterprise API security documentation that reduced support tickets and enabled external developer onboarding across multiple NCR product teams.</em>|<code>OpenAPI</code> <code>YAML</code> <code>Specs</code><br><em>Comprehensive API schemas for fintech and blockchain platforms. Powers 10K+ monthly developers.</em>|
+| `Python` `Auth` `Docs` | `OpenAPI` `YAML` `Specs` | `Java` `Game Flow` `Tutorial` |
+| Enterprise API security docs that reduced support tickets 40% and enabled external developer onboarding across NCR product teams. | Comprehensive API schemas for Stellar's Horizon and Anchor Platform. Powers the official developer portal. | Educational content that breaks down game logic for beginners. 75K+ views across Medium and YouTube. |
 
-|🎮 <a href="https://taylor-mcneil.github.io/technical-writing-portfolio/java-tutorial/">Tic Tac Toe Java Tutorial</a>|☕ <a href="https://www.youtube.com/watch?v=eUJDmLEVtjU&ab_channel=ThatDevTaylorGames">Java Programming Tutorial</a>|🖼️ <a href="https://github.com/Taylor-McNeil/nft-stellar-buzz">NFT Workshop</a>|
-|:---:|:---:|:---:|
-|<code>Java</code> <code>Game Flow</code> <code>Tutorial</code> <br> <em>Educational programming content that transforms complex concepts into accessible learning experiences. Reached 75K+ developers across Medium and YouTube.</em>|<code>Java</code> <code>Tutorial</code> <code>How to Guide</code><br><em>Technical problem-solving tutorial that breaks down algorithmic thinking and Java implementation patterns for developers at all skill levels.</em>|<code>JS</code> <code>Stellar</code> <code>APIs</code><br> <em>Interactive blockchain workshop materials enabling developers to build dynamic NFT applications using Stellar's API ecosystem.</em>|
-
-## 🛠 Tech Stack
-
-`Python` · `TypeScript` · `JavaScript` ·`Solidity` · `React` · `Django` · `FastAPI` · `Markdown` · `MDX` · `Vibes`  
-
+| [DevRel Playground](https://www.devrel-playground.com/) |
+|:---:|
+| `Next.js` `TypeScript` `AI` |
+|Built for DevRel Professionals who want to create amazing technical content. Compare AI models side-by-side, get automated quality scores, and discover which prompts work best for your audience. The goal is to make data-driven decisions and to iterate on our assumptions to get better outcomes for the dev community.|
 ## 🧠 Currently Building
 
-- 🧵 **Braid** 
-  *A visual outliner for nonlinear storytelling and braided plots.*  
-  <code>React</code> <code>D3</code> <code>FastAPI</code>
+- **Ampersand**  
+  A visual outlining tool for writers managing complex, nonlinear narratives. Investigation boards, timeline views, and relationship mapping for stories that don't fit in a straight line.  
+  `React` `TypeScript` `Postgres`
 
-- ✨ **Spark**  
-  *A productivity app to gamify goals, tasks, and habits with milestone-based tracking.*  
-  <code>React</code> <code>FastAPI</code> <code>Auth</code>
+- **Domains of Power**  
+  A seven-book epic fantasy romance series. Book 1 in progress. Think prestige anime meets institutional horror — if The CW took a mushroom trip and never returned.  
+  
 
-- ✍️ **Domains of Power**  
-  *A fantasy book series that slaps harder than your favorite anime fight*  
-  <code>Horror</code> <code>The CW on Acid</code> <code>Prestige Anime Aura</code>
+## 🛠 Stack
 
+`TypeScript` · `Python` · `React` · `Next.js` · `FastAPI` · `OpenAPI` · `Postgres` · `MongoDB`
+
+## 🌍 Places I've Been & Going
+
+| North America    | South America | Europe  | Africa        | Asia          | Oceania        |
+|------------------|---------------|----------|---------------|---------------|----------------|
+| Canada           | Peru          | Italy    | Tanzania x2  | Vietnam x2    | *Australia x2* |
+| Mexico x2        | Colombia x2   | Germany  | South Africa | Thailand x2   |                |
+| Belize           | Chile         | Spain x2 | Ethiopia     | Singapore x2  |                |
+| Jamaica          | *Brazil*      | France   |              | *Japan x2*    |                |
+| United States    |               |          |              | Mongolia      |                |
+| *Turks & Cacios* |               |          |              | *South Korea* |
 ## 🧃 Ethos
 
 _"Just read the docs. If there aren't any docs, write the docs."_
 
-## 🌍 Places I've Been
+## 📫 Contact
 
-| North America | South America | Europe   | Africa       | Asia          | Oceania   | Antarctica |
-|---------------|---------------|----------|--------------|---------------|-----------|-----------|
-| Canada        | Peru          | Italy    | Tanzania x 2 | Vietnam x 2   | Australia | (*December 2026*) |
-| Mexico x 2    | Columbia x 2  | Germany  | South Africa | Thailand      |           |            |
-| Belize        | Chile         | Spain x2 | Ethiopia     | Singapore x 2 |           |            |
-| Jamaica       |               | France   |              | Japan x 2 (*April 2026*) |           |            |
-| United States |               |          |              | Mongolia (*August 2026*) |           |            |
-
-## 📫 Contact Me
-
-Want to collab? Hire me? Send memes?  
-Reach out via [LinkedIn](https://www.linkedin.com/in/taylormcneil)
+[LinkedIn](https://www.linkedin.com/in/taylormcneil) · [Email](mailto:mcneiltaylor@live.com)
