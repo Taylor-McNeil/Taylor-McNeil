@@ -1,19 +1,30 @@
 # Developer Experience Engineer • Technical Writer • Fantasy Nerd • World Traveler
 
-Hey, I'm Taylor – I turn complex tech mumbo jumbo into real things that solve problems. <br>
+Hey, I'm Taylor – I turn complex tech mumbo jumbo into things that people want to use. <br/>
+
 Currently building tools for writers and shipping front-end projects (React/TS), but still deeply rooted in Python, API design, and docs that don't suck.
 
-> Former DevRel @ Mastercard, Stellar, Dropbox
+> Former DevRel. Now building tools for writers and shipping front-end projects in React/TS.
 
-## 📄 [Portfolio](https://taylormcneil.dev)
 
-Built as API documentation — because fun :) 
 
-## 🚀 Latest Project: [The Long View](https://thelongview.dev)
+## 🔥 Currently Building
 
-You've seen those $50 "Big Year Calendars" on TikTok — giant wall posters that show your whole year at once. I wanted a digital version that was free, portable, and didn't require an account. The Long View lets you plan across months, drag events through time, and zoom between year and quarter views. Everything lives in localStorage with JSON export, so you own your data completely.
+### [aampersand](https://aampersand.com)
+A visual tool for writers whose stories outgrew their tools. Born from writing a fantasy series and losing the thread somewhere around chapter 30. 
 
-**Built with:** React • TypeScript • shadcn • dnd-kit
+`Next.js` `TypeScript` `TipTap` `Postgres`
+
+### Domains of Power
+A seven-book epic fantasy romance series. Book 1 in progress. Think a very girtty Harry Potter in university meets Breaking Bad. Institutional horror and everyone is questionable.
+
+
+## 📦 Other Projects
+
+**[The Long View](https://thelongview.dev)** — The digital "Big Year Calendar." Plan across months, drag events through time.
+
+**[Portfolio](https://taylormcneil.dev)** — Built as API documentation, because fun :) Featuring fun projects and write ups on aampersand.
+
 
 ## ✨ Featured Work
 
@@ -26,19 +37,12 @@ You've seen those $50 "Big Year Calendars" on TikTok — giant wall posters that
 |:---:|
 | `Next.js` `TypeScript` `AI` |
 |Built for DevRel Professionals who want to create amazing technical content. Compare AI models side-by-side, get automated quality scores, and discover which prompts work best for your audience. The goal is to make data-driven decisions and to iterate on our assumptions to get better outcomes for the dev community.|
-## 🧠 Currently Building
 
-- **Ampersand**  
-  A visual outlining tool for writers managing complex, nonlinear narratives. Investigation boards, timeline views, and relationship mapping for stories that don't fit in a straight line.  
-  `React` `TypeScript` `Postgres`
-
-- **Domains of Power**  
-  A seven-book epic fantasy romance series. Book 1 in progress. Think prestige anime meets institutional horror — if The CW took a mushroom trip and never returned.  
   
 
 ## 🛠 Stack
 
-`TypeScript` · `Python` · `React` · `Next.js` · `FastAPI` · `OpenAPI` · `Postgres` · `MongoDB`
+`TypeScript` · `Python` · `Java` · `React` · `Next.js` · `FastAPI` · `OpenAPI` · `Postgres` · `MongoDB`
 
 ## 🌍 Places I've Been & Going
 
