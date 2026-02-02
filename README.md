@@ -52,7 +52,7 @@ A seven-book epic fantasy romance series. Book 1 in progress. Think a very girtt
 | Mexico x2        | Colombia x2   | Germany  | South Africa | Thailand x2   |                |
 | Belize           | Chile         | Spain x2 | Ethiopia     | Singapore x2  |                |
 | Jamaica          | *Brazil*      | France   |              | *Japan x2*    |                |
-| United States    |               |          |              | Mongolia      |                |
+| United States    |               |          |              | *Mongolia*    |                |
 | *Turks & Cacios* |               |          |              | *South Korea* |
 ## 🧃 Ethos
 
