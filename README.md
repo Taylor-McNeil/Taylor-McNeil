@@ -10,7 +10,7 @@ Currently building tools for writers and shipping front-end projects (React/TS),
 
 ## 🔥 Currently Building
 
-### [aampersand](https://aampersand.com)
+### [aampersand](https://www.aampersand.com)
 A visual tool for writers whose stories outgrew their tools. Born from writing a fantasy series and losing the thread somewhere around chapter 30. 
 
 `Next.js` `TypeScript` `TipTap` `Postgres`
