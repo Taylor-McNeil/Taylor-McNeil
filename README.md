@@ -48,10 +48,10 @@ A seven-book epic fantasy romance series. Book 1 in progress. Think a very girtt
 
 | North America    | South America | Europe  | Africa        | Asia          | Oceania        |
 |------------------|---------------|----------|---------------|---------------|----------------|
-| Canada           | Peru          | Italy    | Tanzania x2  | Vietnam x2    | *Australia x2* |
+| Canada           | Peru          | Italy    | Tanzania x2  | Vietnam x2    | Australia      |
 | Mexico x2        | Colombia x2   | Germany  | South Africa | Thailand x2   |                |
 | Belize           | Chile         | Spain x2 | Ethiopia     | Singapore x2  |                |
-| Jamaica          | *Brazil*      | France   |              | *Japan x2*    |                |
+| Jamaica          |               | France   |              | Japan         |                |
 | United States    |               |          |              | *Mongolia*    |                |
 | *Turks & Cacios* |               |          |              | *South Korea* |
 ## 🧃 Ethos
