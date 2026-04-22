@@ -21,8 +21,6 @@ A seven-book epic fantasy romance series. Book 1 in progress. Think a very girtt
 
 ## 📦 Other Projects
 
-**[The Long View](https://thelongview.dev)** — The digital "Big Year Calendar." Plan across months, drag events through time.
-
 **[Portfolio](https://taylormcneil.dev)** — Built as API documentation, because fun :) Featuring fun projects and write ups on aampersand.
 
 
