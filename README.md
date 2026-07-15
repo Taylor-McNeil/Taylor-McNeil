@@ -22,10 +22,10 @@ A seven-book epic fantasy romance series. Book 1 in progress. A gritty *Harry Po
 
 ## ✨ Featured Work
 
-| [Building Docs From Scratch](https://taylormcneil.dev/field-notes/on-building-a-doc-system) | [The Long View](https://taylormcneil.dev/side-projects/the-longview) |
-|:---:|:---:|
+| [Building Docs From Scratch](https://taylormcneil.dev/field-notes/on-building-a-doc-system) | 
+|:---:|
 | `Next.js` `MDX` `React` `Docs Infrastructure` | `React` `TypeScript` `Local-First` |
-| How a portfolio became a bespoke documentation system, where that freedom paid off, and where it began charging interest. | A private, local-first visual planning tool for seeing an entire year at once without sending personal data to a server. |
+| How a portfolio became a bespoke documentation system, where that freedom paid off, and where it began spiraling into something else. |
 
 | [HMAC Authentication Guide](https://taylormcneil.dev/guides/hmac-authentication) | [Stellar API Docs](https://taylormcneil.dev/case-studies/stellar-api-docs) |
 |:---:|:---:|
