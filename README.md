@@ -36,14 +36,14 @@ A seven-book epic fantasy romance series. Book 1 in progress. A gritty *Harry Po
 
 `TypeScript` · `Python` · `Java` · `React` · `Next.js` · `FastAPI` · `OpenAPI` · `Postgres` · `MongoDB`
 
-## 🌍 Places I've Been & Going
+## 🌍 Places I've Been & *Going*
 
 | North America    | South America | Europe   | Africa       | Asia          | Oceania   |
 |------------------|---------------|----------|--------------|---------------|-----------|
-| Canada           | Peru          | Italy    | Tanzania x2  | Vietnam x2    | Australia |
+| Canada           | Peru          | Italy    | Tanzania x2  | Vietnam       | Australia |
 | Mexico x2        | Colombia x2   | Germany  | South Africa | Thailand x2   |           |
 | Belize           | Chile         | Spain x2 | Ethiopia     | Singapore x2  |           |
-| Jamaica          |               | France   |              | Japan         |           |
+| Jamaica          |               | France   | Nigeria      | Japan         |           |
 | United States    |               |          |              | *Mongolia*    |           |
 | Turks & Caicos   |               |          |              | *South Korea* |           |
 
